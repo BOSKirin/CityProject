@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CityProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="google_maps_key">AIzaSyDAY_f_wuEsHADhPvARAvbP4i9TwLlr1zs</string>
+    <string name="default_query_hint">filter</string>
+    <string name="map_fragment_tag">map_fragment_tag</string>
+    <string name="city_list_fragment_tag">city_list_fragment_tag</string>
+    <string name="back">Back</string>
+    <string name="loading_error_text">"Error happens"</string>
+</resources>
